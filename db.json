@@ -13,9 +13,9 @@
       "reminder": true
     },
     {
-      "text": "asd",
-      "day": "asd",
-      "reminder": true,
+      "text": "Do dishes",
+      "day": "Tomorrow at 11PM",
+      "reminder": false,
       "id": 3
     }
   ]
